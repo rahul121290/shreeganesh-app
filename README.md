@@ -1,0 +1,2 @@
+# shreeganesh-app
+for shop
